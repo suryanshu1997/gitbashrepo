@@ -1,2 +1,4 @@
 This is one file.
 This is 2nd line.
+This is 3rd line.
+line added for git diff.
